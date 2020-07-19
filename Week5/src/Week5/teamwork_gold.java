@@ -162,6 +162,6 @@ public class teamwork_gold
 			i++;
 		}
 		pr.println(ans);
-		pr.close;
+		pr.close();
 	}
 }
